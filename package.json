@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "lerna run --scope @vue-react-mf-example/* --parallel start",
+    "build": "lerna run --scope @vue-react-mf-example/* build",
+    "serve": "lerna run --scope @vue-react-mf-example/* --parallel serve",
+    "clean": "lerna run --scope @vue-react-mf-example/* --parallel clean"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "name": "micro-frontend"
+}
