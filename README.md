@@ -1,4 +1,4 @@
-# Multi Framework, Micro Frontend setup using Webpack Module Federation with Monorepo
+# Multi Framework, Micro Frontend setup using Webpack Module Federation in Monorepo
 
 ### App2 (Host App, built with Vue3)
 
